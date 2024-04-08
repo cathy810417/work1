@@ -1,2 +1,2 @@
 price=input('滯納金')
-print('你好，客人',price)
+print('你好，客人',price)"#work1" 

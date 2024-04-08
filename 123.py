@@ -1,0 +1,10 @@
+x=1
+print(x)
+y=2
+y=4
+y=5
+print(y)
+x=5
+x=6
+print(x)
+print(x)
